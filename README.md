@@ -1,5 +1,5 @@
 # storybook
-Creative storybook - exploring what I can do with jQuery, JavaScript, CSS3 animation and html5.
+Creative storybook - exploring all the awesome things you can do with jQuery, JavaScript, CSS3 animation and html5.
 
 
 - This is an interactive project base on visual animation and storytelling.
